@@ -43,8 +43,8 @@ Cada una de estas preguntas podran verlas respondidas en el notebook, donde podr
 
 ### Visualizaciones
 Use Tableau para graficar los insights mas relevantes como resultado obtuvimos 2 dashboards, dentro del notebook tambien se encuentran algunas graficas que hicimos con matplolib para obtener algunas respuestas preeliminares.
-- [Dashboard de tendencias y relaciones](http://https://public.tableau.com/views/Visualizaciones_16884777576460/tendencias_ralaciones?:language=es-ES&:display_count=n&:origin=viz_share_link "Dashboard de tendencias y relaciones")
-- [Dashboard de la esperanza](hthttps://public.tableau.com/views/Visualizaciones-data-cancer-mama/esperanza_vida?:language=es-ES&:display_count=n&:origin=viz_share_linktp:// "Dashboard de la esperanza")
+- [Dashboard de tendencias y relaciones](https://public.tableau.com/views/Visualizaciones_16884777576460/tendencias_ralaciones?:language=es-ES&:display_count=n&:origin=viz_share_link "Dashboard de tendencias y relaciones")
+- [Dashboard de la esperanza](https://public.tableau.com/views/Visualizaciones-data-cancer-mama/esperanza_vida?:language=es-ES&:display_count=n&:origin=viz_share_linktp:// "Dashboard de la esperanza")
 
 ### Conclusiones
 En resumen, se han respondido satisfactoriamente las preguntas y objetivos planteados en el análisis de datos de pacientes con cáncer de mama. Este proceso ha permitido utilizar conocimientos técnicos para abordar un tema relevante en el ámbito de la salud. Es importante destacar que estos resultados son específicos para el conjunto de datos analizado y no representan cifras absolutas a nivel mundial.
@@ -53,9 +53,7 @@ Se ha demostrado la existencia de relaciones significativas entre variables como
 
 En definitiva, este análisis proporciona un punto de referencia valioso para comprender y explorar aspectos relevantes del cáncer de mama. Debe ser considerado como una contribución inicial en un campo amplio y en constante evolución, lo que resalta la importancia de continuar investigando y ampliando nuestro conocimiento en este ámbito de vital importancia para la salud pública.
 
-[![Dashboard de la esperanza](https://public.tableau.com/views/Visualizaciones-data-cancer-mama/esperanza_vida?:language=es-ES&:display_count=n&:origin=viz_share_link "Dashboard de la esperanza")](http://https://public.tableau.com/views/Visualizaciones-data-cancer-mama/esperanza_vida?:language=es-ES&:display_count=n&:origin=viz_share_link "Dashboard de la esperanza")
 
-[![Dasboard tendencias y relaciones](https://public.tableau.com/views/Visualizaciones_16884777576460/tendencias_ralaciones?:language=es-ES&:display_count=n&:origin=viz_share_link "Dasboard tendencias y relaciones")](http://https://public.tableau.com/views/Visualizaciones_16884777576460/tendencias_ralaciones?:language=es-ES&:display_count=n&:origin=viz_share_link "Dasboard tendencias y relaciones")
 
 ### Licencias
 Es importante destacar que estos datos se comparten bajo la licencia internacional Creative Commons Attribution 4.0, lo que permite su uso y distribución siempre y cuando se cite correctamente la fuente original. En este caso, se cita el conjunto de datos de la siguiente manera:
